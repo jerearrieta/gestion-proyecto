@@ -1,20 +1,13 @@
-# Gestión de Proyectos: Rentabilidad por unidad de negocio
+# Gestión de Proyectos: Sprint 1
 
-Proyecto de la materia Gestión de Proyectos. Trabajamos con Scrum para una empresa real que tiene
-4 unidades de negocio y hoy no sabe cuánto gana cada una.
+Proyecto de la materia Gestión de Proyectos, trabajado con Scrum.
 
-El objetivo es construir un sistema que le permita a la empresa calcular **costos, rentabilidad y
-punto de equilibrio por unidad de negocio y por producto**, y evaluar decisiones como inversiones o
-stock inmovilizado, para que puedan decidir con números y no "a ojo".
+**Qué vamos a hacer:** diseñar la parte contable de un sistema que ya está en desarrollo, para una
+empresa real, con datos reales.
 
-## Documentación
+## Documentos del Sprint 1
 
-- [Contexto del problema y glosario](docs/contexto.md)
-- Sprint 1 (entrega: miércoles 14/10/2026)
-  - [Product Backlog](docs/sprint-1/01-product-backlog.md)
-  - [Sprint Backlog](docs/sprint-1/02-sprint-backlog.md)
-  - [Acta de la reunión con el cliente](docs/sprint-1/03-acta-reunion-cliente.md)
-
-## Equipo
-
-6 integrantes. Roles en el [Sprint Backlog](docs/sprint-1/02-sprint-backlog.md#equipo-y-roles).
+1. [Resumen del proyecto](docs/sprint-1/00-resumen.md): qué es y cómo explicarlo.
+2. [Product Backlog](docs/sprint-1/01-product-backlog.md): lo que el sistema tendría que hacer.
+3. [Sprint Backlog](docs/sprint-1/02-sprint-backlog.md): lo que hacemos en este sprint.
+4. [Preguntas para el Meet](docs/sprint-1/03-preguntas-meet.md): qué preguntarle a la profe.
